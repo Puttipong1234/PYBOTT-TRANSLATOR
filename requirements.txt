@@ -22,7 +22,7 @@ googleapis-common-protos==1.6.0
 goslate==1.5.1
 grpcio==1.24.0
 gunicorn==19.9.0
-httplib2==0.13.0
+httplib2==0.18.0
 idna==2.8
 inflect==2.1.0
 itsdangerous==1.1.0
